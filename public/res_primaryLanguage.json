@@ -129,6 +129,23 @@
           "JavaScript",
           "Bootstrap"
         ]
+      },
+      {
+        "company": "ITESM University",
+        "title": "Bachelor Computer Science",
+        "years": "03.2010 - 12.2014",
+        "mainTech": [
+          "JAVA"
+        ],
+        "technologies": [
+          "HTML",
+          "PHP",
+          "CSS",
+          "JavaScript",
+          "Bootstrap",
+          "SQL",
+          "JAVA"
+        ]
       }
     ]
   }

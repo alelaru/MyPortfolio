@@ -13,6 +13,12 @@
           "url": "https://www.instagram.com/alelaru/",
           "class": "fab fa-instagram"
         }
+        ,
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/alelaru/",
+          "class": "fab fa-linkedin"
+        }
       ],
       "image": "myProfile.jpeg"
     },
