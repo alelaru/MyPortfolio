@@ -9,11 +9,11 @@
       "experience": "Erfahrung"
     }
   },
-  "projects": [
+  "projects": [  
     {
       "title": "Mexa eCommerce",
       "startDate": "2020",
-      "description": "Eine E-Commerce-Anwendung, die auf React unter Verwendung der neuesten React-Technologien (React-Redux, SAGA, Hooks, Context-API) erstellt wurde, die Bilder stammen von einer auf GraphQL + Apollo erstellten API, die Website wurde auf Heroku bereitgestellt. Die App beinhaltet die Anbindung an: stripe Bezahlung und firebase (gmail/normal) authentication",
+      "description": "Eine E-Commerce-Anwendung , die auf React unter Verwendung der neuesten React-Technologien (React-Redux, SAGA, Hooks, Context-API) erstellt wurde, die Bilder stammen von einer auf GraphQL + Apollo erstellten API, die Website wurde auf Heroku bereitgestellt. Die App beinhaltet die Anbindung an: stripe Bezahlung und firebase (gmail/normal) authentication",
       "images": [
         "images/portfolio/animal-shelter/image1.gif",
         "images/portfolio/animal-shelter/image2.gif",
