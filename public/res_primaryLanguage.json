@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Alejandro Lara, currently living in Vienna. I'm working with one of the newest front-end frameworks, React. This is my portfolio page, below you'll find the projects i've been working on during the university, i've worked as a front-end developer and in Software Sales but i allways missed programming",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,42 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
+        "title": "Mexa eCommerce",
         "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "description": "An ecommerce application created on React using the latest React technologies (React-Redux, SAGA, Hooks, Context-API) the images come from an API created on GraphQL + Apollo the website was deployed on Heroku. The app includes connection to: stripe payments and firebase (gmail/normal) authentication",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/image1.gif",
+          "images/portfolio/animal-shelter/image2.gif",
+          "images/portfolio/animal-shelter/image3.gif"
         ],
-        "url": "",
+        "url": "https://mexa-live.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-heroku-plain",
+            "name": "Heroku"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "COVID-19 Tracker",
+        "startDate": "2021",
+        "description": "COVID-19 Tracker Application - React JS Project (Hooks, Material UI, Charts js)",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/photography/image1.gif"
         ],
-        "url": "https://github.com",
+        "url": "https://vigorous-colden-22a537.netlify.app/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,63 +59,75 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Blog Posts",
+        "startDate": "2021",
+        "description": " A personal site with a blog powered by markdown, the content its created in Contentful and then is passed to React via GraphQL and deployed by netlify",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/blogContentful/Blog1.gif",
+          "images/portfolio/blogContentful/Blog2.gif"
         ],
-        "url": "https://github.com",
+        "url": "https://infallible-bell-de4175.netlify.app/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "title": "Ninja Reading List",
+        "startDate": "2021",
+        "description": "A ninja reading list application created with only FUNCTIONAL components (Hooks - useState, useContext, useReducer)",
+        "images": [
+          "images/portfolio/adventure/image1.gif"
+        ],
+        "url": "https://determined-hugle-865cb2.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      }
+
+    ],
+    "experience": [
+      {
+        "company": "SAP",
+        "title": "Account Executive",
+        "years": "04.2016 - 09.20",
         "mainTech": [
-          "Angular 7/8"
+          "Software Sales"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
+          "Account Management",
+          "Negotiations",
+          "Pipeline Management",
+          "CRM",
+          "Presentation skills"
+        ]
+      },
+      {
+        "company": "Integrate",
+        "title": "Front-End Developer",
+        "years": "03.2013 - 09.2015",
+        "mainTech": [
+          "AJAX"
+        ],
+        "technologies": [
+          "HTML",
           "PHP",
+          "CSS",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap"
         ]
       }
     ]
