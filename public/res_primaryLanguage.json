@@ -47,6 +47,7 @@
           "images/portfolio/Java-MySQL-React-CRUD/1.gif",
           "images/portfolio/Java-MySQL-React-CRUD/2.gif"
         ],
+        "url": "https://github.com/alelaru/CRUD_SpringBoot_MySQL_React",
         "technologies": [
           {
             "class": "devicon-react-original",
