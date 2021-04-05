@@ -108,6 +108,35 @@
         ]
       },
       {
+        "title": "CRUD Vue/SQL/SpringBoot",
+        "startDate": "2020",
+        "description": "A CRUD application for employee management, it uses SpringBoot & MySQL leveraging JPA and other libraries with Vue on the front-end in a single page application proyect hasn't been deployed yet",
+        "images": [
+          "images/portfolio/ManagerAppVue/1.gif",
+          "images/portfolio/ManagerAppVue/2.gif"
+        ],
+        "url": "https://github.com/alelaru/employeeManager-SpringBoot-Vue",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+          ,
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          }
+        ]
+      },
+      {
         "title": "Ninja Reading List",
         "startDate": "2021",
         "description": "A ninja reading list application created with only FUNCTIONAL components (Hooks - useState, useContext, useReducer)",
@@ -129,6 +158,7 @@
       }
 
     ],
+    
     "experience": [
       {
         "company": "SAP",
