@@ -40,6 +40,30 @@
         ]
       },
       {
+        "title": "Chat Application",
+        "startDate": "2021",
+        "description": "Chat application on React using React Chat Engine and axios for the communciation, not deployed",
+        "images": [
+          "images/portfolio/chat/1.gif",
+          "images/portfolio/chat/2.gif"
+         ],
+        "url": "https://github.com/alelaru/ChatAPP/blob/master/src/App.js",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "Axios"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "Chat-Engine"
+          }
+        ]
+      },
+      {
         "title": "Java/SQL/React",
         "startDate": "2020",
         "description": "A CRUD application for employee management, it uses SpringBoot & MySQL as backend (Eclipse) and React as a Front-End, proyect hasn't been deployed yet",
