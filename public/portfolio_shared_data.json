@@ -65,6 +65,11 @@
           "level": "60"
         },
         {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "60"
+        },
+        {
           "name": "GraphQL",
           "class": "",
           "level": 40
