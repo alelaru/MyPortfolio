@@ -41,6 +41,32 @@
         ]
       },
       {
+        "title": "Instagram-clone",
+        "startDate": "2021",
+        "description": "A copy of an web-instagram using Tailwind and making calls for the photos, comments, users and info from firebase and tested using JEST - For the website username: alelaru@gmail.com password:123123",
+        "images": [
+          "images/portfolio/instagram/1.gif",
+          "images/portfolio/instagram/2.gif",
+          "images/portfolio/instagram/3.gif"
+        ],
+        "url": "https://instagramclone-alelaru.netlify.app/",
+        "github": "https://github.com/alelaru/instagramClone",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          }
+        ]
+      },
+      {
         "title": "Pokedex",
         "startDate": "2021",
         "description": "A Pokedex that calls the pokedexapi.co using the following technologies: Tailwind, Typescript, Axios, Skeleton, Proptypes, Lazy-Suspense. Tested with JEST with a coverage of 96%",
