@@ -41,6 +41,28 @@
         ]
       },
       {
+        "title": "Netflix Clone",
+        "startDate": "2021",
+        "description": "Netflix Clone using React (Custom Hooks, Context), Firebase & Styled Components, Jest for testing and deployed on Netlify",
+        "images": [
+          "images/portfolio/netflix-clone/1.gif",
+          "images/portfolio/netflix-clone/2.gif",
+          "images/portfolio/netflix-clone/3.gif"
+        ],
+        "url": "https://netfx-clone-alejandro.netlify.app/",
+        "github": "https://github.com/alelaru/netflixClone",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          }
+        ]
+      },
+      {
         "title": "Instagram-clone",
         "startDate": "2021",
         "description": "A copy of an web-instagram using Tailwind and making calls for the photos, comments, users and info from firebase and tested using JEST - For the website username: alelaru@gmail.com password:123123",
