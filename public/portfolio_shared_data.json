@@ -30,14 +30,14 @@
           "level": "95"
         },
         {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
-          "level": "95"
-        },
-        {
           "name": "React",
           "class": "devicon-react-plain",
           "level": "80"
+        },
+        {
+          "name": "Solidity",
+          "class": "devicon-solidity-plain",
+          "level": "95"
         },
         {
           "name": "TypeScript",
@@ -71,9 +71,10 @@
         },
         {
           "name": "GraphQL",
-          "class": "",
+          "class": "devicon-graphql-plain",
           "level": 40
         }
+
       ]
     }
   }

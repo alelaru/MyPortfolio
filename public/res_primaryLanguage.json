@@ -63,6 +63,29 @@
         ]
       },
       {
+        "title": "DAO Matic",
+        "startDate": "2022",
+        "description": "DAO project using Mumbai's polygon testnetwork using Moralis infrastructure, the code for the smartcontract was coded in visualstudio",
+        "images": [
+          "images/portfolio/DAO-Polygon/1.gif",
+          "images/portfolio/DAO-Polygon/2.gif",
+          "images/portfolio/DAO-Polygon/3.gif"
+        ],
+        "url": "https://scintillating-trifle-9c7908.netlify.app/",
+        "github": "https://github.com/alelaru/DAO-MATIC",
+        "smartcontract": "https://mumbai.polygonscan.com/address/0x124Ca287f41661C965d52ccc78466684d44B061e#writeContract",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class":"devicon-solidity-plain",
+            "name": "Solidity"
+          }
+        ]
+      },
+      {
         "title": "Instagram-clone",
         "startDate": "2021",
         "description": "A copy of an web-instagram using Tailwind and making calls for the photos, comments, users and info from firebase and tested using JEST - For the website username: alelaru@gmail.com password:123123",

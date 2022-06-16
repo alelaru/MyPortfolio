@@ -13,6 +13,7 @@ class ProjectDetailsModal extends Component {
       var description = this.props.data.description;
       var url = this.props.data.url;
       var github = this.props.data.github;
+      var smartcontract = this.props.data.smartcontract
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
           return (
@@ -107,6 +108,20 @@ class ProjectDetailsModal extends Component {
                 </a>
               ) : null
               }
+              { github ? (
+                <a
+                href={smartcontract}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="link-href"
+                >
+                  <i
+                  className="fab fa-ethereum"
+                  style={{ marginLeft: "10px" }}
+                ></i>
+                </a>
+              ) : null
+              }              
             </h3>
             <p className="modal-description">{description}</p>
             <div className="col-md-12 text-center">
